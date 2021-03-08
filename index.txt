@@ -1,1 +1,7 @@
-scds
+git status 
+git init   (to initialise git repository)
+git add . (to put all files from repository in staging area)
+git commit -m "version name"     (to put commit repository)
+git config --global user.name "username"
+git config --global user.email "user@gmail.com"
+git log   (to view changes)
